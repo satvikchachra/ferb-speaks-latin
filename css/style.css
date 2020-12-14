@@ -43,6 +43,7 @@ main, #card-container {
     padding: 20px;
     height: 100px;
     width: 400px;
+    border-radius: 10px;
 }
 
 #txt-output {
@@ -53,6 +54,7 @@ main, #card-container {
     border: 1px solid grey;
     text-align: left;
     background-color: #fff;
+    border-radius: 10px;
 }
 
 #btn-translate {
@@ -60,8 +62,8 @@ main, #card-container {
     background-color: #e74c3c;
     border: 1px solid #000000;
     outline: none;
-    height: 30px;
-    width: 100px;
+    height: 35px;
+    width: 120px;
     color: #fff;
 }
 
