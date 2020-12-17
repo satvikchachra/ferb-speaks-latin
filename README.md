@@ -1,7 +1,5 @@
-# ferb-speaks-latin
-A part of submission of an assignment for neogcamp.
+# Ferb-Speaks-Latin
 
-# BananaSpeaks
 * Talk like Phineas and Ferb with this handy English-to-Ferb Latin Translator Web App.
 * A part of submission of an assignment for neogcamp.
 
@@ -15,7 +13,7 @@ A part of submission of an assignment for neogcamp.
 ### Image
 <details>
   <summary>Landing Page</summary>
-    <img src="assets/webpage.PNG" height="400px">
+    <img src="assets/webpage.PNG" height="500px">
 </details>
 
 During their routine summer fun, the two brothers Phineas and Ferb create their own language.
